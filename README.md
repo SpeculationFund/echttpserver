@@ -51,7 +51,16 @@ cd github.com/SpeculationFund/echttpserver
 The output is `echttpserver-yyyymmdd.zip`, details are shown as follow,
 
 ```
-TODO
+Archive:  echttpserver-20171228.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2017-12-28 20:04   .Build/
+  8490552  2017-12-28 20:04   .Build/echttpserver_amd64-20171228
+  6791432  2017-12-28 20:04   .Build/echttpserver_386-20171228
+  6798752  2017-12-28 20:04   .Build/echttpserver_arm-20171228
+---------                     -------
+ 22080736                     4 files
+
 ``` 
 
 # Logistics
