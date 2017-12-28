@@ -1,7 +1,7 @@
 # echttpserver
 http server supporting RESTful api of eccrawler
 
-# Deployment
+# Deployment (TO BE TESTED)
 
 ### Download [release](https://github.com/SpeculationFund/echttpapi/releases)
 
@@ -13,7 +13,7 @@ cd .Build
 ```
 
 
-# Getting Started
+# Getting Started (TO BE TESTED)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
